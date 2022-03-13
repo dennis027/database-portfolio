@@ -13,7 +13,7 @@ charset-normalizer==2.0.3
 Click==7.0
 cloudinary==1.26.0
 colorama==0.4.3
-command-not-found==0.3
+# command-not-found==0.3
 confusable-homoglyphs==3.2.0
 coverage==5.3
 cryptography==3.4.7
