@@ -39,3 +39,6 @@ urllib3==1.26.2
 waitress==2.0.0
 whitenoise==5.2.0
 zipp==3.4.0
+django-rest-knox==4.1.0
+djangorestframework==3.12.4
+djangorestframework-jwt==1.11.0

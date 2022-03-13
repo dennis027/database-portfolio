@@ -16,12 +16,6 @@ from rest_framework import filters
 
 # from django.contrib.auth.models import User
 
-from rest_framework.permissions import IsAuthenticated  
-from django.shortcuts import render
-
-from django.core.mail import send_mail, BadHeaderError
-from django.http import HttpResponse
-from django.contrib import messages
 
 class ContactViewSet(viewsets.ModelViewSet):
     search_fields=['name']
