@@ -74,11 +74,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
      'app',
-      'rest_framework',
-    'knox',
-      'corsheaders',
-      'rest_framework.authtoken',
-          'django_rest_passwordreset',
+    #   'rest_framework',
+    # 'knox',
+    #   'corsheaders',
+    #   'rest_framework.authtoken',
+    #       'django_rest_passwordreset',
       
     
          
