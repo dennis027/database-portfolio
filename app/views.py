@@ -1,19 +1,18 @@
-from re import search
+
 from django.db.models import query
-from django.shortcuts import render
-from rest_framework import generics, permissions
+
+
 
 from .serializers import *
 from django.contrib.auth import login
 from .models import *
-from rest_framework import permissions
 
-from rest_framework import viewsets, generics,permissions
+
+from rest_framework import viewsets
 
 from rest_framework import filters
-from rest_framework import status
-from rest_framework import generics
-from rest_framework.response import Response
+
+
 
 # from django.contrib.auth.models import User
 
