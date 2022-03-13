@@ -1,9 +1,9 @@
 
-from django.db.models import query
 
 
 
-from .serializers import *
+
+from .serializers import ContactSerializer
 from django.contrib.auth import login
 from .models import *
 
